@@ -1,0 +1,9 @@
+abcdefghijklmnopqrstuvwxyz
+2
+0,1,abcdefghijklmnopqrstuvwxyz,1
+1,0,abcdefghijklmnopqrstuvwxyz,0
+
+===== data below will not be read ====
+
+Automata description: 
+	Accepts an even number of entries

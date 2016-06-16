@@ -1,0 +1,10 @@
+ab
+2
+0,1,a,1,b,0
+1,0,a,0,b,1
+
+
+===== data below will not be read ====
+
+Automata description: 
+	Accepts an even number of 0s

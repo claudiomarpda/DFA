@@ -1,0 +1,11 @@
+c
+4
+0,0,c,1
+1,0,c,2
+2,0,c,3
+3,1,c,3
+
+===== Data below will not be read ====
+
+Automata description: 
+	{w| w has at least three c's}

@@ -1,0 +1,11 @@
+ab
+4
+0,0,a,0,b,1
+1,0,a,1,b,2
+2,1,a,2,b,3
+3,0,a,3,b,3
+
+===== Data below will not be read ====
+
+Automata description: 
+	{w| w has exactly two a’s}

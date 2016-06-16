@@ -1,0 +1,9 @@
+c
+2
+0,0,c,1
+1,1,c,1
+
+===== Data below will not be read ====
+
+Automata description: 
+	{w| w has at least one c}

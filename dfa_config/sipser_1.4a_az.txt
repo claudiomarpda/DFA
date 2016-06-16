@@ -1,0 +1,20 @@
+abcdefghijklmnopqrstuvwxyz
+12
+0,0,a,1,b,4
+1,0,a,2,b,5
+2,0,a,3,b,6
+3,0,a,3,b,7
+4,0,a,5,b,8
+5,0,a,6,b,9
+6,0,a,7,b,10
+7,0,a,7,b,11
+8,0,a,9,b,8
+9,0,a,10,b,9
+10,0,a,11,b,10
+11,1,a,11,b,11
+
+
+===== Data below will not be read ====
+
+Automata description: 
+	{w| w has at least three a’s and at least two b’s}

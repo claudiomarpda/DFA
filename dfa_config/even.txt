@@ -1,0 +1,9 @@
+ab
+2
+0,1,ab,1
+1,0,ab,0
+
+===== data below will not be read ====
+
+Automata description: 
+	Accpets an even number of entries
