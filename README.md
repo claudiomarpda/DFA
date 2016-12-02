@@ -1,4 +1,9 @@
-# DFA
+<h2>Deterministic Finite Automaton</h2>
+Provides, recursively: 
+* Union 
+* Intersection
+* Complement
+
 Every file is a full automaton description. 
 Each state and its transition are specified as the input pattern.
 
